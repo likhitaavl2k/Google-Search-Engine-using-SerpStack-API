@@ -4,7 +4,7 @@
 SerpStack API is a Real-Time & Accurate Google Search Results API
 SerpStack API: https://serpstack.com/
 Documentation: https://serpstack.com/documentation
-<br>
+<br><br>
 <b>Steps to clone:</b>
 1. Download the zip file of this repository
 2. Go to SerpStack API main page and sign up 
