@@ -3,7 +3,7 @@ $("#form").submit(function(e){
 
     var query = $("#search").val()
 
-    var YOUR_ACCESS_KEY = '6677ab9048d12a5126accc53211b5f4a'
+    var YOUR_ACCESS_KEY = 'please paste your api key here'
     
     let result = ''
 
